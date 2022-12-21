@@ -1,3 +1,6 @@
+// question
+// zh
+// 编写函数输出所有text结点的内容。注意不要访问<script>和<style>元素，因为这些元素对浏览者是不可见的。
 package main
 
 import (
